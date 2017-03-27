@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="black_semi_transparent">#B2000000</color>
+
+    <item name="very_light_grey" type="color">#E0E0E0</item>
+    <item name="grey" type="color">#877777</item>
+
+
+    <!-- HDFC Approved Color Palette colors -->
+
+    <color name="hdfc_red">#d8343a</color>
+    <color name="hdfc_light_grey">#a1a1a1</color>
+    <color name="hdfc_very_light_grey">#eaeced</color>
+    <color name="hdfc_grey">#737373</color>
+</resources>
